@@ -1,0 +1,8 @@
+{
+  "debug": false,
+  "local.server.host": "sa-amq",
+  "local.server.port": 5672,
+  "remote.server.host": "sa-amq",
+  "remote.server.port": 5672,
+  "amq.app.id": "nautilu-flow"
+}
